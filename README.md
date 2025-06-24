@@ -45,4 +45,7 @@ It helps users discover movies similar to the ones they like, based on their con
    ```bash
    streamlit run app.py
    ```
+5.  Live Demo  
+👉 [Check out the app here](https://moviemind-recommender.streamlit.app/)
+
    
